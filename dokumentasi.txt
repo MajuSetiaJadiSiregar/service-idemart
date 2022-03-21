@@ -1,0 +1,4 @@
+catatan service idemart
+
+- user
+	field => id, firstname, lastname, phone, email, username, password, profession, role, image_profile, createdAt, updateAt
